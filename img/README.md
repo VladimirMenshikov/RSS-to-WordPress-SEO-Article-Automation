@@ -51,4 +51,4 @@
 
 ---
 
-📎 Подробнее о проекте: [README_AI_AutoPublisher.md](README_AI_AutoPublisher.md)
+📎 Подробнее о проекте: [README_AI_AutoPublisher](../README.md)
